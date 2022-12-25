@@ -1,0 +1,30 @@
+.home-container {
+  background-color: white;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.home-container1 {
+  background-color: #000000;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.home-image {
+  height: 200px;
+  width: 200px;
+  margin-top: 200px;
+}
+.title {
+  margin-left: 30px;
+}
+.title1 {
+  color: white;
+  margin-left: 30px;
+}
